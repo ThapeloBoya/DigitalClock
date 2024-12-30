@@ -15,7 +15,7 @@ A simple React-based digital clock that allows users to switch between 12-hour a
 
 ## Demo
 
-You can view the demo of the app by visiting [here](https://your-github-pages-link.com).
+You can view the demo of the app by visiting [Digital Clock](https://digital-clock-ewwtwlop5-foxsugarprotonmes-projects.vercel.app/).
 
 ## Installation
 
