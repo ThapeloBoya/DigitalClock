@@ -23,4 +23,4 @@ To run the app locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/thapeloboya/digital-clock.git
